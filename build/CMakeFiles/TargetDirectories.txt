@@ -1,3 +1,0 @@
-/home/sooder/revesion/build/CMakeFiles/revesion.dir
-/home/sooder/revesion/build/CMakeFiles/edit_cache.dir
-/home/sooder/revesion/build/CMakeFiles/rebuild_cache.dir
